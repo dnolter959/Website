@@ -1,3 +1,4 @@
+baseurl = "https://dannolte.netlify.app/"
 [build]
 command = "hugo"
 publish = "public"
