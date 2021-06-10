@@ -1,6 +1,6 @@
 ---
-title: "Book Review: The Anthropocene Reviewed"
-author: "Dan Nolte"
+title: Book Review - The Anthropocene Reviewed
+author: Dan Nolte
 date: 2021-06-10T21:13:14-05:00
 categories: ["Book Reviews", "Reviews"]
 ---
