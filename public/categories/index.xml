@@ -6,34 +6,6 @@
     <description>Recent content in Categories on Cactus theme example</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>You</copyright>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://dannolte.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>R</title>
-      <link>https://dannolte.netlify.app/categories/r/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>https://dannolte.netlify.app/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>notes</title>
-      <link>https://dannolte.netlify.app/categories/notes/</link>
-      <pubDate>Sat, 06 Jun 2020 09:00:00 +0000</pubDate>
-      
-      <guid>https://dannolte.netlify.app/categories/notes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>life</title>
-      <link>https://dannolte.netlify.app/categories/life/</link>
-      <pubDate>Sat, 22 Oct 2016 16:56:54 +0000</pubDate>
-      
-      <guid>https://dannolte.netlify.app/categories/life/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>You</copyright><atom:link href="https://dannolte.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
