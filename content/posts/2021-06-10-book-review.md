@@ -1,5 +1,5 @@
 ---
-categories: ["Book Reviews", "Reviews""]
+categories: ["Book Reviews", "Reviews"]
 date: "2021-06-10 16:56:54"
 keywords: null
 title: Book Review - The Anthropocene Reviewed
