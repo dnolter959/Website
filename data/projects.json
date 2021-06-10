@@ -1,19 +1,14 @@
 {
   "list": [
     {
-      "name":"Linear Algebra Course Notes",
+      "name":"Hugo",
       "url":"https://gohugo.io/",
-      "desc":"Course notes for Linear Algebra"
+      "desc":"The world’s fastest framework for building websites."
     },
     {
-      "name":"Calculus Course Notes",
+      "name":"Hugo Themes",
       "url":"https://github.com/gohugoio/hugoThemes",
-      "desc":"Course notes for Calc 1-3"
-    },
-    {
-      "name":"Manim Video",
-      "url":"https://github.com/gohugoio/hugoThemes",
-      "desc":"Youtube video using Manim"
+      "desc":"A curated directory of Hugo themes"
     }
   ]
 }
