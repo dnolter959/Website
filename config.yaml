@@ -2,6 +2,12 @@ baseURL: https://dannolte.netlify.app/
 languageCode: en-us
 title: Cactus theme example
 theme: hugo-theme-cactus
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+  - \.knit\.md$
+  - \.utf8\.md$
 copyright: You
 disqusShortname: example
 menu:
