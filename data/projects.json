@@ -1,14 +1,19 @@
 {
   "list": [
     {
-      "name":"Hugo",
+      "name":"Linear Algebra Notes",
       "url":"https://gohugo.io/",
-      "desc":"The world’s fastest framework for building websites."
+      "desc":"Some linear algebra notes."
     },
     {
-      "name":"Hugo Themes",
+      "name":"Calculus Notes",
       "url":"https://github.com/gohugoio/hugoThemes",
-      "desc":"A curated directory of Hugo themes"
+      "desc":"Some calculus notes."
+    },
+    {
+      "name":"Manim Project",
+      "url":"https://github.com/gohugoio/hugoThemes",
+      "desc":"A project using Manim."
     }
   ]
 }
