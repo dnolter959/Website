@@ -19,7 +19,7 @@ menu:
       url: /about
       weight: 4
     - name: Resume
-      url: /resume/test.pdf
+      url: "/resume/resume.pdf"
       weight: 4
 markup:
   tableOfContents:
