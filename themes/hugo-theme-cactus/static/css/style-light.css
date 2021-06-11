@@ -321,7 +321,7 @@ body .h1 {
   display: block;
   margin-top: 3rem;
   margin-bottom: 1rem;
-  color: #d44375;
+  color: #bc742b;
   letter-spacing: 0.01em;
   font-weight: 700;
   font-style: normal;
@@ -608,7 +608,7 @@ body {
   -webkit-filter: grayscale(100%);
 }
 #header #nav {
-  color: #d44375;
+  color: #bc742b;
   letter-spacing: 0.01em;
   font-weight: 200;
   font-style: normal;
@@ -622,10 +622,10 @@ body {
 }
 #header #nav ul a {
   margin-right: 15px;
-  color: #d44375;
+  color: #bc742b;
 }
 #header #nav ul a:hover {
-  background-image: linear-gradient(transparent, transparent 5px, #d44375 5px, #d44375);
+  background-image: linear-gradient(transparent, transparent 5px, #bc742b 5px, #bc742b);
   background-position: bottom;
   background-size: 100% 6px;
   background-repeat: repeat-x;
@@ -634,7 +634,7 @@ body {
   display: inline-block;
   margin-right: 15px;
   border-right: 1px dotted;
-  border-color: #d44375;
+  border-color: #bc742b;
   vertical-align: middle;
 }
 #header #nav ul .icon {
@@ -738,7 +738,7 @@ body {
   margin-left: 15px;
 }
 #header-post #menu-icon:hover {
-  color: #d44375;
+  color: #bc742b;
 }
 #header-post #menu-icon-tablet {
   float: right;
@@ -746,7 +746,7 @@ body {
   margin-left: 15px;
 }
 #header-post #menu-icon-tablet:hover {
-  color: #d44375;
+  color: #bc742b;
 }
 #header-post #top-icon-tablet {
   position: fixed;
@@ -756,17 +756,17 @@ body {
   margin-left: 15px;
 }
 #header-post #top-icon-tablet:hover {
-  color: #d44375;
+  color: #bc742b;
 }
 #header-post .active {
-  color: #d44375;
+  color: #bc742b;
 }
 #header-post #menu {
   visibility: hidden;
   margin-right: 2rem;
 }
 #header-post #nav {
-  color: #d44375;
+  color: #bc742b;
   letter-spacing: 0.01em;
   font-weight: 200;
   font-style: normal;
@@ -777,16 +777,16 @@ body {
 }
 #header-post #nav ul a {
   margin-right: 15px;
-  color: #d44375;
+  color: #bc742b;
 }
 #header-post #nav ul a:hover {
-  background-image: linear-gradient(transparent, transparent 5px, #d44375 5px, #d44375);
+  background-image: linear-gradient(transparent, transparent 5px, #bc742b 5px, #bc742b);
   background-position: bottom;
   background-size: 100% 6px;
   background-repeat: repeat-x;
 }
 #header-post #nav ul li {
-  border-right: 1px dotted #d44375;
+  border-right: 1px dotted #bc742b;
 }
 #header-post #nav ul li:last-child {
   margin-right: 0;
@@ -837,7 +837,7 @@ body {
   font-size: 0.8rem;
 }
 #header-post #toc nav > ul > li:before {
-  color: #d44375;
+  color: #bc742b;
   content: "#";
   margin-right: 8px;
 }
@@ -846,7 +846,7 @@ body {
   font-size: 0.7rem;
 }
 #header-post #toc nav > ul > li > ul > li:before {
-  color: #d44375;
+  color: #bc742b;
   content: "·";
   font-weight: bold;
   margin-right: 3px;
@@ -934,11 +934,11 @@ body {
   text-align: center;
 }
 #footer-post #nav-footer a {
-  color: #d44375;
+  color: #bc742b;
   font-size: 1em;
 }
 #footer-post #nav-footer a:hover {
-  background-image: linear-gradient(transparent, transparent 5px, #d44375 5px, #d44375);
+  background-image: linear-gradient(transparent, transparent 5px, #bc742b 5px, #bc742b);
   background-position: bottom;
   background-size: 100% 6px;
   background-repeat: repeat-x;
@@ -969,7 +969,7 @@ body {
 #footer-post #actions-footer a {
   display: inline-block;
   padding-left: 1rem;
-  color: #d44375;
+  color: #bc742b;
 }
 #footer-post #share-footer {
   padding-right: 1rem;
@@ -1013,7 +1013,7 @@ body {
   font-size: 0.8rem;
 }
 #footer-post #toc-footer #TableOfContents > ul > li:before {
-  color: #d44375;
+  color: #bc742b;
   content: "#";
   margin-right: 8px;
 }
@@ -1023,7 +1023,7 @@ body {
   line-height: 15px;
 }
 #footer-post #toc-footer #TableOfContents > ul > li > ul > li:before {
-  color: #d44375;
+  color: #bc742b;
   content: "·";
   font-weight: bold;
   margin-right: 3px;
@@ -1100,7 +1100,7 @@ article .content h2:before {
   position: absolute;
   top: -4px;
   left: -1rem;
-  color: #d44375;
+  color: #bc742b;
   content: "#";
   font-weight: bold;
   font-size: 1.2rem;
@@ -1132,7 +1132,7 @@ article .content blockquote {
   margin: 1rem 10px;
   padding: 0.5em 10px;
   background: inherit;
-  color: #ab2251;
+  color: #bc742b;
   quotes: "\201C" "\201D" "\2018" "\2019";
   font-weight: bold;
 }
@@ -1141,7 +1141,7 @@ article .content blockquote p {
 }
 article .content blockquote:before {
   margin-right: 0.25em;
-  color: #ab2251;
+  color: #bc742b;
   content: "\201C";
   vertical-align: -0.4em;
   font-size: 2em;
@@ -1342,7 +1342,7 @@ article .content .caption {
   -moz-border-radius: 5px;
 }
 .search-input:focus {
-  border: solid 1px #d44375;
+  border: solid 1px #bc742b;
 }
 #search-result ul.search-result-list {
   padding: 0;
@@ -1567,7 +1567,7 @@ code {
   transition: opacity 0.2s ease-in;
 }
 .highlight .btn-copy:hover {
-  color: #d44375;
+  color: #bc742b;
 }
 .highlight pre {
   margin: 0;
