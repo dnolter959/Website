@@ -35,7 +35,9 @@ params:
     enabled: no
     engine: disqus
   dateFormat: '2006-01-02'
-  description: Hi! 
+  description: "Hi! I'm Dan. This site is a repository for the things I'm working on
+  these days. This inclues writing and reflections on books I've read and movies I've watched,
+  personal essays and daily blogging, and data-related projects I'm working on."
   googleAnalyticsAsync: yes
   mainSection: posts
   postsOnHomePage: 5
