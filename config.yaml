@@ -30,7 +30,7 @@ markup:
     renderer:
       unsafe: true
 params:
-  colortheme: white
+  colortheme: light
   comments:
     enabled: no
     engine: disqus
