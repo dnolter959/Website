@@ -6,4 +6,4 @@ title: Movie Review - Fruitvale Station
 ---
 
 
-This movie was powerful..
+TBD.
